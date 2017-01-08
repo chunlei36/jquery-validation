@@ -1,5 +1,5 @@
 ## 校验工具，处理表单验证。
-# 注意：误入easyform的坑
+注意：误入easyform的坑
 
 The MIT License (MIT)
 =====================
